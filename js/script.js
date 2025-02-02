@@ -122,7 +122,7 @@ async function main(){
 
 
           //  songs = await getSongs("songs/ncs");
-           await getSongs("songs/fgh/");
+           await getSongs("songs/fgh");
           
           playMusic(songs[0], true)
 
